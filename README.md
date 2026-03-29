@@ -8,11 +8,9 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 Im student at The National Development University "Veteran" of Jakarta
 - 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence.
 - ✍️ If I have the opportunity and free time, I also pursue Frontend Development.
 - 📖 I'm continuously learning and striving to improve my programming skills.
-- 📫 Reach me on [ilyasalkahfi98@gmail.com](mailto:ilyasalkahfi98@gmail.com) 
 
 ### ⚙️ &nbsp;GitHub Stats
 
